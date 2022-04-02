@@ -1,12 +1,12 @@
- # Pre-work - *Memory Game*
+# Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Azalia Cyphers
+Submitted by: **Azalia Cyphers**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/quilt-swamp-viscount)
 
 ## Required Functionality
 
@@ -41,8 +41,8 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://user-images.githubusercontent.com/17802728/161368420-9ab34584-c211-4a71-9db1-66ee47584493.gif)
 ![](https://user-images.githubusercontent.com/17802728/161368346-03872a4a-ac2d-49ef-a50b-ead7d79f4a00.gif)
-![] no gif3
-![] no gif4
+![](gif3-link-here)
+![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
