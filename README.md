@@ -1,29 +1,29 @@
-Pre-work - *Memory Game*
+# Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Azalia Cyphers
+Submitted by: **Azalia Cyphers**
 
 Time spent: **6** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/quilt-swamp-viscount)
 
 ## Required Functionality
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
 * [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [x] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [ ] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
@@ -39,29 +39,29 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://user-images.githubusercontent.com/17802728/161368420-9ab34584-c211-4a71-9db1-66ee47584493.gif)
-![](https://user-images.githubusercontent.com/17802728/161368346-03872a4a-ac2d-49ef-a50b-ead7d79f4a00.gif)
-![] no gif3
-![] no gif4
+![](https://user-images.githubusercontent.com/17802728/161369285-a7241f80-696d-470e-8614-fca841bfb29f.gif)
+![](https://user-images.githubusercontent.com/17802728/161369469-ce63b2e3-12fc-444f-b775-66d26264e545.gif)
+![](gif3-link-here)
+![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I consulted my classmate from my CS1371 class, who helped me verify the conditional loop for the "guess" function.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[A significant challenge that I faced when creating this submission was trying to implement the option of "losing" the game after 3 strikes. After testing countless conditional loops, initializing "strikeCounter" as a global variable, and then calling it, I struggled with figuring out just exactly how to iterate it. This challenge started to eat away at my optimism, and I grew discouraged. However, I overcame the challenge by pursuing another modification; changing the pitch associated with some buttons. The musical background in me took hold, and I decided to take what was a moment of discouragement and used it as an area for growth. Rather than just submitting the game with the initial button tones, I modified the tone for button 4 to a value of 500. This caused the buttons when clicked in numerical order from 1-4 to present a basic octave, reminiscent of my time in the orchestra. Despite the hiccup in my coding task, I used the challenge to make a connection with another extracurricular of mine, and modify the game in what was still a just as entertaining manner. I aspire to do the same when I face challenges as a future engineer; make knowledgable connections, step up to the challenge, and make an impact. I overcame my discomfort and rather greeted it, using it to change my persepctive on the situaton and complete the task at hand.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[After completing the submission, I immediately wondered how trial and error works in web development, especially when given a specific task. What steps do developers take to iterate, modify, and adjust code so that they can successfully address a client's brief? I was also intrigued by the integration of front-end (visual) and back-end (programming, data collection) web development. Specifically, what are ways to distinguish front-end from back-end in web development, and conversely, how they both contribute to an effective user interface? I have always wondered how digital games thrive at the intersection of intricate technology and entertainment. This submission began to further that curiosity through hands-on experience. My final question about web development is "how can web development be used to create efficient medical technology that can be used by individuals without a medical background?". Coming from a computer science background, and now fortunate enough to study Biomedical Engineering, I want to use web development to answer such questions while leaving a lasting impact. Should those questions remain unanswered, through the pursuit of such answers, there is now one more Black, female, computer scientist in the world. ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had a few more hours to work on the project, I would revisit the additional feature of the player "losing" the game after three strikes. This would not only help me overcome my challenge of struggling with conditionals, but would also allow me to practice loops and various outcomes. After that, I would pursue the additional feature of adding images for the buttons, followed by the addition of a countdown clock. This would allow me to step into the lens of web developers that strive to optimize user experience through interactive elements. Lastly, without the limitation of time, I would make subtle modifications to the current colors and button types, eventually resulting in the aesthetic of my choosing (perhaps a seasonal one).]
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/t7-BSfvTGMM)
 
 
 ## License
